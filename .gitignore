@@ -1,0 +1,18 @@
+# Excel temporary and backup files
+~$*.xls*
+*.xlk
+*.xlsb
+*.xlw
+*.bak
+*.tmp
+
+# System files (Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs or cache
+*.log
