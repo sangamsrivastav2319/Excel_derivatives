@@ -16,7 +16,14 @@
 - Assumptions-driven models for clarity and flexibility  
 - Linked formulas demonstrating real-world derivative mechanics  
 - Sensitivity analysis and scenario testing  
-- Clean, organized Excel structures suitable for both learning and professional use  
+- Clean, organized Excel structures suitable for both learning and professional use
+
+- ## 🛠 Tools & Skills
+- Microsoft Excel → Financial modeling, formulas, scenario analysis  
+- Power BI → Visualization of derivative payoffs  
+- Python (optional) → Data cleaning and sensitivity analysis  
+- Equity Research Techniques → Assumptions, valuation, peer benchmarking  
+
 
 ---
 
